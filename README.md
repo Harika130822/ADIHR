@@ -4,18 +4,18 @@ Senior Cloud Data Engineer
 
 ## Pre-Requisites
 
-> ![alt text](Screenshots\image.png)
+> ![alt text](Screenshots/image.png)
 
 
 
 
 ## UBUNTU
 
-> ![alt text](Screenshots\image-2.png)
+> ![alt text](Screenshots/image-2.png)
 
-> ![alt text](Screenshots\image-1.png)
+> ![alt text](Screenshots/image-1.png)
 
-> ![alt text](Screenshots\image-3.png)
+> ![alt text](Screenshots/image-3.png)
 
 ```
 
