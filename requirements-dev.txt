@@ -1,0 +1,6 @@
+pyspark==3.5.3
+duckdb>=1.1
+pandas
+pyarrow
+boto3
+ruff

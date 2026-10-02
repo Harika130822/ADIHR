@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ruff_cache/
+samples/data/
+samples/stream_in/
+samples/stream_test_in/
+*.tfstate*
+*.tfplan
+tfplan-*
+plan-*.txt
+plan-*.json
+.terraform/
+.terraform.lock.hcl
+spark-warehouse/
+metastore_db/
+derby.log
